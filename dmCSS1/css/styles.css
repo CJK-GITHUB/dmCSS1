@@ -132,6 +132,8 @@ opacity: .25;
 .item_13_box {
 	width:80%;
 	height: 2.5em;
+	transition: height .5s ease-in 0s;
+
 }
 .item_13_box a {
 	display:block;
@@ -139,6 +141,7 @@ opacity: .25;
 	height:.2em;
 	background-color: #060;
 	margin:.1em auto;
+	transition: height .5s ease-in 0s;
 }
 .item_13_box:hover {
 	width:80%;
